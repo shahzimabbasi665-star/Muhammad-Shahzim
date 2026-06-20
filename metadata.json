@@ -1,0 +1,6 @@
+{
+  "name": "Lensora",
+  "description": "Photography & Videography Booking Management App designed for photography studios, event photographers, and videographers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
